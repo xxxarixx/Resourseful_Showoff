@@ -1,4 +1,4 @@
-<h1>Game mobile project:<br /></h1>
+<h1>Game mobile project (release date 2024):<br /></h1>
 
 ![Main](ReadmeResources/main_ss.png)<br />
 <h3>This game is builder-god clicker hybrid made using Unity game engine and c# programming language<br />
