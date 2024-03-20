@@ -41,3 +41,5 @@ Editor is scalable and newbie friendly because of easy editor with achivement fi
 -energy integration with buildings<br />
 -skill tree<br />
 ![SkillTree](ReadmeResources/skillTree_ss.png)<br />
+
+<h3> source code showoff via my individual permission and adding to collaborators </h3>
