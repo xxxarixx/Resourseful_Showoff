@@ -36,7 +36,8 @@ Editor is scalable and newbie friendly because of easy editor with achivement fi
 -Expend lands with runtime astar pathfinding obstacle update <br /> 
 ![Expend land](ReadmeResources/ExpendLand_ss.png)<br />
 -runtime support for hundreds of achivements and stats<br />
--floating and movable ui windows<br />
+-any amount of floating and movable ui windows that saves own location through game sessions<br />
+![Expend land](ReadmeResources/FloatingWindows_ss.png)<br />
 -energy integration with buildings<br />
 -skill tree<br />
 ![SkillTree](ReadmeResources/skillTree_ss.png)<br />
