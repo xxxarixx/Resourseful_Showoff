@@ -41,5 +41,5 @@ Editor is scalable and newbie friendly because of easy editor with achivement fi
 -energy integration with buildings<br />
 -skill tree<br />
 ![SkillTree](ReadmeResources/skillTree_ss.png)<br />
-
+[Google drive link to game beta](https://drive.google.com/file/d/1d7G4AXNuLOmn756SuX1ct3lqAVseKSPz/view?usp=sharing)<br />
 <h3> source code showoff via my individual permission and adding to collaborators </h3>
