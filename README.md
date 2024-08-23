@@ -44,12 +44,13 @@
   <tbody  align="center">
     <td>
       <img src="ReadmeResources/depthTextureFromRenderTexture.png">
-      <video src='ReadmeResources/texturesInAction.mp4' />
+      <video src='https://github.com/user-attachments/assets/cd44f761-2983-49d5-aa3d-6781ca8fab30'/>
     </td>
     <td>
        <h3>ComputeShaders:<br /></h3>
         👉Used to procedularry recreate water texture, it take snapshot of tilemap's each placed tile and converting it to this texture to minimalize drop performance when creating new lands, that next is processed by shader graph to add water animations and colors<br />
         👉Used to procedularry recreate land contact points with water,and creating several jpg's keyframes to play texture in loop in real time <br />
+        PS: in video is black frame due to unity recorder weird behaviour, in game it doesn't appear<br />
     </td>
   </tbody>
     <!-- ==================Row 4=====================-->
