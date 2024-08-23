@@ -1,14 +1,14 @@
 <div align="center">
   <!-- MAIN HEAD -->
-  <h1> <img src="ReadmeResources/gameIcon.png" width="50" height="auto" style="margin:50px 0px"> Resourcefull (release 2024):<br /></h1>
+  <h1> <img src="ReadmeResources/gameIcon.png" width="50" height="auto" style="margin:50px 0px"> Resourceful (release 2024):<br /></h1>
   <h4> Builder-god/clicker hybrid made in Unity game engine and c# programming language<br /> </h4>
   <!-- Content -->
   <table>
-    <!-- ==================Row 1===================== -->
+    <!--==================Row 1=====================-->
     <tbody align="center">
       <tr>
         <!-- column 1 -->
-        <th width="350px"> <img src="ReadmeResources/main_ss.png" width="auto" height="500"></th>
+        <th width="350px"> <img src="ReadmeResources/main_ss.png"></th>
         <!-- column 2 -->
         <td width="650px">
           <h4>👑Packages used:</h4>
@@ -30,7 +30,29 @@
         </td>
       </tr>
     </tbody>
-    <!-- ==================Row 2=====================-->
+     <!--==================Row 2=====================-->
+  <tbody  align="center">
+    <td>
+      <img src="ReadmeResources/shaderGraph.jpg">
+    </td>
+    <td>
+       <h3>Shaders:<br /></h3>
+        -shiny decoration VFX that is scalable with any texture sprites
+    </td>
+  </tbody>
+     <!--==================Row 3=====================-->
+  <tbody  align="center">
+    <td>
+      <img src="ReadmeResources/depthTextureFromRenderTexture.png">
+      <video src='ReadmeResources/texturesInAction.mp4' />
+    </td>
+    <td>
+       <h3>ComputeShaders:<br /></h3>
+        👉Used to procedularry recreate water texture, it take snapshot of tilemap's each placed tile and converting it to this texture to minimalize drop performance when creating new lands, that next is processed by shader graph to add water animations and colors<br />
+        👉Used to procedularry recreate land contact points with water,and creating several jpg's keyframes to play texture in loop in real time <br />
+    </td>
+  </tbody>
+    <!-- ==================Row 4=====================-->
   <tbody align="center">
     <td>
         <h3>🧰</h3>
@@ -39,10 +61,10 @@
       <h3>Also including several editor helpfull tools like:<br /></h3>
     </td>
   </tbody>
-    <!-- ==================Row 3=====================-->
+    <!-- ==================Row 5=====================-->
   <tbody align="center">
     <td>
-        <img src="ReadmeResources/Achivements_ss.png" width="700" height="150">
+        <img src="ReadmeResources/Achivements_ss.png">
     </td>
     <td>
       <h4>👑Achivement editor, made using unity EditorWindow:<br /></h4>
@@ -50,25 +72,25 @@
       Editor is scalable and newbie friendly because of easy editor with achivement filtering of which ones to show<br />
     </td>
   </tbody>
-     <!-- ==================Row 4=====================-->
+     <!-- ==================Row 6=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/Attributes_ss.png" width="700" height="100">
+      <img src="ReadmeResources/Attributes_ss.png">
     </td>
     <td>
       👉easy inspector property assignment using unity resources and CustomPropertyDrawer:<br />
     </td>
   </tbody>
-    <!-- ==================Row 5=====================-->
+    <!-- ==================Row 7=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/Accesories_ss.png" width="700" height="100">
+      <img src="ReadmeResources/Accesories_ss.png">
     </td>
     <td>
       👉Accesorie editor
     </td>
   </tbody>
-     <!-- ==================Row 6=====================-->
+     <!-- ==================Row 8=====================-->
   <tbody  align="center">
     <td>
       <h3>🧰</h3>
@@ -77,10 +99,10 @@
       <h3>Game has systems like:<br /></h3>
     </td>
   </tbody>
-     <!-- ==================Row 7=====================-->
+     <!-- ==================Row 9=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/buildmode_ss.png" width="auto" height="500">
+      <img src="ReadmeResources/buildmode_ss.png">
     </td>
     <td>
       👉temporarry powerUps<br />
@@ -89,10 +111,10 @@
       👉Building system<br />
     </td>
   </tbody>
-    <!-- ==================Row 8=====================-->
+    <!-- ==================Row 10=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/ExpendLand_ss.png" width="auto" height="500">
+      <img src="ReadmeResources/ExpendLand_ss.png">
     </td>
     <td>
       👉Inventory system<br />
@@ -100,38 +122,39 @@
       👉Expend lands with runtime astar pathfinding obstacle update <br /> 
     </td>
   </tbody>
-    <!-- ==================Row 9=====================-->
+    <!-- ==================Row 11=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/PremiumCurrency.png" width="auto" height="500">
+      <img src="ReadmeResources/PremiumCurrency.png">
     </td>
     <td>
       👉Premium currency (using InAppPurchasing and Advertisement Legacy)<br />
     </td>
   </tbody>
-     <!-- ==================Row 10=====================-->
+     <!-- ==================Row 12=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/FloatingWindows_ss.png" width="auto" height="500">
+      <img src="ReadmeResources/FloatingWindows_ss.png">
     </td>
     <td>
       👉runtime support for hundreds of achivements and stats<br />
       👉any amount of floating and movable ui windows that saves own location through game sessions<br />
     </td>
   </tbody>
-    <!-- ==================Row 11=====================-->
+    <!-- ==================Row 13=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/skillTree_ss.png" width="auto" height="500">
+      <img src="ReadmeResources/skillTree_ss.png">
     </td>
     <td>
       👉energy integration with buildings<br />
       👉skill tree<br />
     </td>
   </tbody>
+   
   </table>
 </div>
 
-[<img src="ReadmeResources/GP.png">](https://drive.google.com/file/d/1d7G4AXNuLOmn756SuX1ct3lqAVseKSPz/view?usp=sharing)
+[<img src="ReadmeResources/GP.png" width="200px">](https://drive.google.com/file/d/1d7G4AXNuLOmn756SuX1ct3lqAVseKSPz/view?usp=sharing)
 <!-- https://drive.google.com/file/d/1d7G4AXNuLOmn756SuX1ct3lqAVseKSPz/view?usp=sharing -->
 <h3> source code showoff via Adding to collaborators </h3>
