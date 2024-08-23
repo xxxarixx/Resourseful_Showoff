@@ -8,7 +8,7 @@
     <tbody align="center">
       <tr>
         <!-- column 1 -->
-        <th width="350px"> <img src="ReadmeResources/main_ss.png" width="auto" height="500"></th>
+        <th width="350px"> <img src="ReadmeResources/main_ss.png"></th>
         <!-- column 2 -->
         <td width="650px">
           <h4>👑Packages used:</h4>
@@ -33,7 +33,7 @@
      <!--==================Row 2=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/shaderGraph.jpg"width="700" height="200">
+      <img src="ReadmeResources/shaderGraph.jpg">
     </td>
     <td>
        <h3>Shaders:<br /></h3>
@@ -43,8 +43,8 @@
      <!--==================Row 3=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/depthTextureFromRenderTexture.png"width="700" height="200">
-      <video src='ReadmeResources/texturesInAction.mp4' width=180/>
+      <img src="ReadmeResources/depthTextureFromRenderTexture.png">
+      <video src='ReadmeResources/texturesInAction.mp4' />
     </td>
     <td>
        <h3>ComputeShaders:<br /></h3>
@@ -64,7 +64,7 @@
     <!-- ==================Row 5=====================-->
   <tbody align="center">
     <td>
-        <img src="ReadmeResources/Achivements_ss.png" width="700" height="150">
+        <img src="ReadmeResources/Achivements_ss.png">
     </td>
     <td>
       <h4>👑Achivement editor, made using unity EditorWindow:<br /></h4>
@@ -75,7 +75,7 @@
      <!-- ==================Row 6=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/Attributes_ss.png" width="700" height="100">
+      <img src="ReadmeResources/Attributes_ss.png">
     </td>
     <td>
       👉easy inspector property assignment using unity resources and CustomPropertyDrawer:<br />
@@ -84,7 +84,7 @@
     <!-- ==================Row 7=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/Accesories_ss.png" width="700" height="100">
+      <img src="ReadmeResources/Accesories_ss.png">
     </td>
     <td>
       👉Accesorie editor
@@ -102,7 +102,7 @@
      <!-- ==================Row 9=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/buildmode_ss.png" width="auto" height="500">
+      <img src="ReadmeResources/buildmode_ss.png">
     </td>
     <td>
       👉temporarry powerUps<br />
@@ -114,7 +114,7 @@
     <!-- ==================Row 10=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/ExpendLand_ss.png" width="auto" height="500">
+      <img src="ReadmeResources/ExpendLand_ss.png">
     </td>
     <td>
       👉Inventory system<br />
@@ -125,7 +125,7 @@
     <!-- ==================Row 11=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/PremiumCurrency.png" width="auto" height="500">
+      <img src="ReadmeResources/PremiumCurrency.png">
     </td>
     <td>
       👉Premium currency (using InAppPurchasing and Advertisement Legacy)<br />
@@ -134,7 +134,7 @@
      <!-- ==================Row 12=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/FloatingWindows_ss.png" width="auto" height="500">
+      <img src="ReadmeResources/FloatingWindows_ss.png">
     </td>
     <td>
       👉runtime support for hundreds of achivements and stats<br />
@@ -144,7 +144,7 @@
     <!-- ==================Row 13=====================-->
   <tbody  align="center">
     <td>
-      <img src="ReadmeResources/skillTree_ss.png" width="auto" height="500">
+      <img src="ReadmeResources/skillTree_ss.png">
     </td>
     <td>
       👉energy integration with buildings<br />
