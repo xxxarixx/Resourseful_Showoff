@@ -1,6 +1,6 @@
 <div align="center">
   <!-- MAIN HEAD -->
-  <h1> <img src="ReadmeResources/gameIcon.png" width="50" height="auto" style="margin:50px 0px"> Resourceful (release 2024):<br /></h1>
+  <h1> <img src="ReadmeResources/gameIcon.png" width="50" height="auto" style="margin:50px 0px"> Resourceful (released 2024):<br /></h1>
   <h4> Builder-god/clicker hybrid made in Unity game engine and c# programming language<br /> </h4>
   <!-- Content -->
   <table>
@@ -155,7 +155,8 @@
    
   </table>
 </div>
-
-[<img src="ReadmeResources/GP.png" width="200px">](https://drive.google.com/file/d/1d7G4AXNuLOmn756SuX1ct3lqAVseKSPz/view?usp=sharing)
+<a href="https://play.google.com/store/apps/details?id=com.MooseAndMagick.Resourcable">
+  <img src="ReadmeResources/GP.png" alt="ResourceFul" width="20%" />
+</a>
 <!-- https://drive.google.com/file/d/1d7G4AXNuLOmn756SuX1ct3lqAVseKSPz/view?usp=sharing -->
 <h3> source code showoff via Adding to collaborators </h3>
