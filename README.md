@@ -1,6 +1,6 @@
 <div align="center">
   <!-- MAIN HEAD -->
-  <h1> <img src="ReadmeResources/gameIcon.png" width="50" height="auto" style="margin:50px 0px"> Resourceful (released 2024):<br /></h1>
+  <h1> <img src="ReadmeResources/gameIcon.png" width="50" height="auto" style="margin:50px 0px"> Resourceful:Tap Clicker Game (released 2024):<br /></h1>
   <h4> Builder-god/clicker hybrid made in Unity game engine and c# programming language<br /> </h4>
   <!-- Content -->
   <table>
